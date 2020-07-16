@@ -39,7 +39,7 @@ http://www.billysranch.com/
 
 #### @ Material UI Datatables: React, Material Table, tubular-react
 
-Works with datatable and pagination isn't easy, so, I created two examples using third party libraries mencionned at Material UI oficcial doc.
+Work with data table and pagination isn't easy, so, I created two examples using third party libraries mentioned at Material UI official doc.
 
 #### https://my-asset-management-webapp.herokuapp.com/
 
