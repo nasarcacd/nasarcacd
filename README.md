@@ -26,7 +26,8 @@ https://gamanza-nayib-code-assessment.herokuapp.com/
 
 #### @ Personal Blog: Gastby JS, GraphQL
 
-https://nasarca-gastby-blog.netlify.app/
+https://nasarca-blog.netlify.app
+
 
 It’s built with Gatsby that is a blazing fast modern site generator for React. It’s use GraphQL to loading pages dynamically. 
 
