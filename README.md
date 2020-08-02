@@ -55,5 +55,5 @@ Work with data table and pagination isn't easy, so, I created two examples using
 https://asset-management-webapp.herokuapp.com/
 
 #### @ MyPath: React, Typescript, Material UI
-https://my-path-webapp.herokuapp.com/
+https://my-path.vercel.app/
 
