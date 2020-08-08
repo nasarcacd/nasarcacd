@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Creative Drive LATAM
 - 🌱 I’m currently learning React Advanced concepts, Angular, MongoDB, NestJS, Flutter, React Native, Advanced Firebase, etc. 
 - 🌋 I’m looking to collaborate on Open Source Projects
-- 🐉 I’m looking to sharing my knowledge
+- 🐉 I’m looking for sharing my knowledge
 - 💬 Ask me about FullStack React, NodeJS, PHP, Angular, Java, Firebase, MongoDB
 - 📫 How to reach me: https://www.linkedin.com/in/nayibsc/
 - ⚡ Fun fact: From Hojancha, Guanacaste, Costa Rica  
