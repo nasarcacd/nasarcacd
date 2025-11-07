@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nayib Sarmiento
 
 <div align="center">
-  <img src="https://github.com/tu-usuario/tu-usuario/blob/main/header-image.png" alt="Nayib Sarmiento - Tech Stack" />
+  <img src="https://github.com/nasarcacd/nasarcacd/blob/main/header-image.png" alt="Nayib Sarmiento - Tech Stack" />
 </div>
 
 ## 👨‍💻 Senior Full Stack Developer & Tech Lead
