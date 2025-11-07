@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nayib Sarmiento
+## Hi there! 👋 I'm...
 
 <div align="center">
   <img src="https://github.com/nasarcacd/nasarcacd/blob/master/header-image.png" alt="Nayib Sarmiento - Tech Stack" />
