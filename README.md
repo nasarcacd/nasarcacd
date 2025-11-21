@@ -206,7 +206,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 
 ---
 
-### ✍️ [Personal Tech Blog](link-to-blog)
+### ✍️ [Personal Tech Blog](https://blog.nasarca.dev/)
 **Knowledge sharing platform for developers**
 
 **Tech Stack:** Gatsby • GraphQL • React
