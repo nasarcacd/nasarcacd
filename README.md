@@ -15,7 +15,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 ### 💼 Current Role
 
 - 🏢 **Tech Lead & Full Stack Developer** at Nearlinx
-- 👥 Leading teams in developing educational platforms for student tracking and university applications across the United States
+- 👥 Leading teams in developing educational platforms
 - 🔧 Making software architecture decisions and defining development stacks
 - 📋 Managing projects with team organization, responsibility assignment, and direct client communication
 - 🎯 Delivering multiple projects with modern architectures and high availability
