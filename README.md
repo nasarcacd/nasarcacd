@@ -222,7 +222,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 
 ---
 
-### 🗺️ [MyPath](https://my-path.vercel.app/)
+### 🗺️ MyPath
 **Personal project management and tracking**
 
 **Tech Stack:** React • TypeScript • Material-UI
