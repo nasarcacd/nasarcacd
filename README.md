@@ -144,7 +144,6 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayib_Sarmiento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayibsc/)
 [![Email](https://img.shields.io/badge/Email-nayibsc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayibsc@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+506_7202_7336-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+50672027336)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
 ---
