@@ -151,7 +151,6 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 ## 🎯 Featured Projects
 
 ### 🎓 Educational Platform - Nearlinx
-**Student tracking and university application system for US institutions**
 
 **Tech Stack:** React • TailwindCSS • Shadcn • PHP • AWS • PostgreSQL • MariaDB  
 **Role:** Tech Lead & Full Stack Developer
