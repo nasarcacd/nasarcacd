@@ -102,7 +102,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 
 ## 💼 Professional Experience
 
-### 🎓 Nearlinx (Feb 2024 - March 2026)
+### 🎓 Nearlinx (Feb 2024 - Mar 2026)
 **Tech Stack:** React • TailwindCSS • Shadcn • PHP • AWS • PostgreSQL • MariaDB
 
 ### 🎮 AcePerHead (Sep 2020 - Nov 2023)
