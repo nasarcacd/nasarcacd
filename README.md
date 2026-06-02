@@ -10,7 +10,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 
 ### 💼 Current Role
 
-- 🏢 **Tech Lead & Full Stack Developer** at Nearlinx
+- 🏢 **Full Stack Engineer**
 - 👥 Leading teams in developing educational platforms
 - 🔧 Making software architecture decisions and defining development stacks
 - 📋 Managing projects with team organization, responsibility assignment, and direct client communication
