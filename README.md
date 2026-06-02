@@ -11,7 +11,7 @@ I'm dedicated to developing systems where **performance, usability, simplicity, 
 ### 💼 Current Role
 
 - 🏢 **Full Stack Engineer**
-- 👥 Leading teams in developing educational platforms
+- 👥 Leading teams in developing software platforms
 - 🔧 Making software architecture decisions and defining development stacks
 - 📋 Managing projects with team organization, responsibility assignment, and direct client communication
 - 🎯 Delivering multiple projects with modern architectures and high availability
